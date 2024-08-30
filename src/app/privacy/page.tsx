@@ -545,11 +545,11 @@ export default function PrivacyPage() {
             <p>
               By visiting this page on our website:{" "}
               <a
-                href="https://frasesparapensar.vercel.app//privacy"
+                href="https://frasesparapensar.vercel.app/privacy"
                 rel="external nofollow noopener"
                 target="_blank"
               >
-                https://frasesparapensar.vercel.app//privacy
+                https://frasesparapensar.vercel.app/privacy
               </a>
             </p>
           </li>
