@@ -11,15 +11,15 @@ export default function TermsOfUsePage() {
 
         <h2>2. Definitions</h2>
         <ul>
-          <li><strong>"Company"</strong> refers to Frases.</li>
+          <li><strong>"Company"</strong> refers to Frases/Quotes 2 think about..</li>
           <li><strong>"Service"</strong> refers to the Application or the Website or both.</li>
           <li>
-            <strong>"Website"</strong> refers to Frases, accessible from{" "}
+            <strong>"Website"</strong> refers to Frases/Quotes 2 think about., accessible from{" "}
             <a href="https://frasesparapensar.vercel.app/" target="_blank" rel="noopener noreferrer">
               https://frasesparapensar.vercel.app/
             </a>.
           </li>
-          <li><strong>"Application"</strong> refers to Frases Pro, the software program provided by the Company.</li>
+          <li><strong>"Application"</strong> refers to Frases/Quotes 2 think about. Pro, the software program provided by the Company.</li>
           <li>
             <strong>"You"</strong> means the individual accessing or using the Service or the company, or other legal entity on behalf of which such individual is accessing or using the Service, as applicable.
           </li>
@@ -35,7 +35,7 @@ export default function TermsOfUsePage() {
 
         <h2>5. Intellectual Property Rights</h2>
         <p>
-          The Service and its original content, features, and functionality are and will remain the exclusive property of Frases and its licensors.
+          The Service and its original content, features, and functionality are and will remain the exclusive property of Frases/Quotes 2 think about. and its licensors.
         </p>
 
         <h2>6. User Conduct</h2>

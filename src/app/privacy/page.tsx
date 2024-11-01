@@ -45,7 +45,7 @@ export default function PrivacyPage() {
           </li>
           <li>
             <p>
-              <strong>Application</strong> refers to Frases Pro, the software
+              <strong>Application</strong> refers to Frases/Quotes 2 think about. Pro, the software
               program provided by the Company.
             </p>
           </li>
@@ -53,7 +53,7 @@ export default function PrivacyPage() {
             <p>
               <strong>Company</strong> (referred to as either &quot;the
               Company&quot;, &quot;We&quot;, &quot;Us&quot; or &quot;Our&quot;
-              in this Agreement) refers to Frases.
+              in this Agreement) refers to Frases/Quotes 2 think about..
             </p>
           </li>
           <li>
@@ -114,7 +114,7 @@ export default function PrivacyPage() {
           </li>
           <li>
             <p>
-              <strong>Website</strong> refers to Frases, accessible from{" "}
+              <strong>Website</strong> refers to Frases/Quotes 2 think about., accessible from{" "}
               <a
                 href="https://frasesparapensar.vercel.app/"
                 rel="external nofollow noopener"
